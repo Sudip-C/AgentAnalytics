@@ -1,0 +1,1 @@
+ export const PRODUCT_URL="https://636bd1987f47ef51e13b4348.mockapi.io/Products"
